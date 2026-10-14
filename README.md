@@ -28,7 +28,6 @@ git push -u origin main
 
 ## Editing
 
-- **Contact email:** search `index.html` for `mailto:` and `marshdog@outlook.com`.
 - **Open to work badge:** search `Open to work` and delete the line if it does not apply.
 - **Remove a screenshot:** delete its `<li>` in the "Every screen" list. If a project uses it, delete that step's `<li class="step">` too.
 - **Colors and fonts:** the first lines of `styles.css` hold the palette and font.
